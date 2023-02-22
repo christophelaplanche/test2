@@ -1,6 +1,6 @@
 # réalise une addition
-# sur 4 nombres
-addition=function(x,y,z,t){
-	x+y+z+t
+# sur 5 nombres
+addition=function(x,y,z,t,u){
+	x+y+z+t+u
 }
 
