@@ -1,5 +1,6 @@
 # réalise une addition
-addition=function(x,y){
-	x+y
+# sur 4 nombres
+addition=function(x,y,z,t){
+	x+y+z+t
 }
 
